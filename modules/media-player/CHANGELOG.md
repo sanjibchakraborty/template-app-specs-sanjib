@@ -8,3 +8,6 @@
 
 ## 1.2.0
 - Test change.
+
+## 1.3.0
+- Test change.
